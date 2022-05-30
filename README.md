@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ponchsoft
-- 👀 I’m interested in ... Learn to Javascript, Python, NoSQL, and all about development.
+- 👀 I’m interested in ... Learn to HTML, CSS, Javascript and all about frontend development.
 - 🌱 I’m currently learning ... a lot of online curses. 
 - 💞️ I’m looking to collaborate on ... nothing 4 now. :/
 - 📫 How to reach me ... twitter @ponchsoftht 
